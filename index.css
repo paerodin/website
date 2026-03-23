@@ -1,0 +1,17 @@
+body {
+    font-family: "Trebuchet MS", Tahoma, sans-serif;
+    max-width: 30em;
+    margin: auto;
+    padding: 0em 2em;
+}
+
+h1 {
+    color: #040b39;
+}
+
+img {
+    display: block;
+    width: auto;
+    height: 20em;
+    margin: auto;
+}
